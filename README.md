@@ -2,10 +2,9 @@
 Gold Heist
 ========================
 
-Avoid patrol bots, steal a gold and come back with keeping from being seen!
+Avoid patrol bots, steal a gold and come back so as not to be found by enemies!
 
 ![snapshot](snapshot.png)
-
 
 Features
 ---------------
